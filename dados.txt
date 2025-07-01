@@ -1,0 +1,20 @@
+# Cidades: nome, estado, populacao
+São Sebastião do Paraíso,MG,70000
+Itamogi,MG,10700
+Monte Santo de Minas,MG,20800
+São Tomás de Aquino,MG,6740
+Carrancas,MG,5000
+Passos,MG,115000
+Guaxupé,MG,52000
+Poços de Caldas,MG,170000
+Alfenas,MG,80000
+
+# Rotas: origem, destino, distancia
+São Sebastião do Paraíso,Itamogi,30
+São Sebastião do Paraíso,São Tomás de Aquino,15
+São Sebastião do Paraíso,Passos,60
+Itamogi,Monte Santo de Minas,20
+Itamogi,Guaxupé,50
+São Tomás de Aquino,Guaxupé,45
+Passos,Alfenas,70
+Guaxupé,Poços de Caldas,80
