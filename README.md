@@ -93,10 +93,12 @@ java Main
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Ewandro Rodrigues Silva**  
-Estudante de Sistemas de Informação | Apaixonado por algoritmos, interfaces modernas e desenvolvimento front-end.
+Estudante de Sistemas de Informação 
+**Kaua Pereira Paim**
+Estudante de Sistemas de Informação 
 
 
 ## Link do Video
